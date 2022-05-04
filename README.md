@@ -1,2 +1,2 @@
 # ML-Regression
-Implement a regression model for bike sharing demand prediction
+Implemented various Machine learning models for predicting rented bike count from Seoul bike sharing database.
